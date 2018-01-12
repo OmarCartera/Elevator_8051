@@ -1,5 +1,8 @@
 /******************************
  *     Author: Omar Gamal     *
+ *         Ahmed Galal        *
+ *       Mohamed Khalaf       *
+ *                            *
  *   c.omargamal@gmail.com    *
  *                            *
  *    Hardware: Intel 8051    *
