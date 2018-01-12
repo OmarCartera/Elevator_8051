@@ -1,11 +1,12 @@
 /******************************
  *     Author: Omar Gamal     *
- *         Ahmed Galal        *
- *       Mohamed Khalaf       *
+ *             Ahmed Galal    *
+ *             Mohamed Khalaf *
  *                            *
  *   c.omargamal@gmail.com    *
  *                            *
  *    Hardware: Intel 8051    *
+ *    Language: C             *
  *                            *
  *         12/4/2017          *
  *  Elevator simulation 8051  *
