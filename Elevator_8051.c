@@ -1,3 +1,13 @@
+/******************************
+ *     Author: Omar Gamal     *
+ *   c.omargamal@gmail.com    *
+ *                            *
+ *    Hardware: Intel 8051    *
+ *                            *
+ *         12/4/2017          *
+ *  Elevator simulation 8051  *
+ ******************************/
+
 #include <C8051F020.h>
 
 //number of the current floor initially 0
